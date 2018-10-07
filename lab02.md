@@ -43,3 +43,8 @@
 条件：子弹 > 与另一个物体碰撞 > 选择怪物 动作：怪物 > 摧毁 动作：子弹 > 生成另一个对象 > 爆炸，第1层 动作：子弹 > 摧毁
 条件：系统 > 每X秒 > 3 动作：系统 > 创建对象 > 怪物，第1层，1400（对于X），随机（1024）
 条件：怪物 > 与另一个物体碰撞 > 玩家 动作：玩家 > 摧毁
+## 调整实例变量
+每个对象的行为和活动会有一些变量，玩家可以根据自己的需要来改变变量。
+example：
+![image](https://www.scirra.com/images/articles/healthinstvar.png)
+![image](https://www.scirra.com/images/articles/healthadded.png)
