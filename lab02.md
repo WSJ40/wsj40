@@ -30,3 +30,8 @@
 - 将子弹移动添加到Monster对象（因为它也向前移动）
 - 将Fade行为添加到Explosion对象（因此它逐渐消失）出现后）。
 ## 创建活动
+活动由条件、操作、子事件组成。
+首先，单击顶部的“ 事件表1”选项卡以切换到“ 事件”表编辑器。
+![image](https://www.scirra.com/images/articles/eventsheettab.png)
+然后依次选择system、every tick、player、set angle toward position
+![image](https://www.scirra.com/images/articles/alwayslookatmouse.png)
