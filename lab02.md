@@ -48,4 +48,5 @@
 example：
 ![image](https://www.scirra.com/images/articles/healthinstvar.png)
 ![image](https://www.scirra.com/images/articles/healthadded.png)
+## 游戏gif
 ![gif](http://m.qpic.cn/psb?/V102zVW71xxzhS/BeBxsNw*.2VBFkTPNsAo47zkLOflObYmm6oBorH.3co!/b/dFMBAAAAAAAA&bo=YwT4AgAAAAACly4!&rf=viewer_4)
