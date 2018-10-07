@@ -20,7 +20,13 @@
 3.当鼠标变为十字准线时，单击布局中的某个位置。工具提示应为“Main”。（请记住这是活动布局。）
 4。弹出纹理编辑器。单击打开图标，然后加载四个纹理中的一个。
 5. 关闭纹理编辑器，保存更改。您现在应该在布局中看到对象！
+6. 使用control + drag，创建7或8个新怪物。
 ## 添加行为
 单击播放器以选择对象。在属性栏中，单击“ 添加/编辑”。播放器的“行为”对话框将打开。
 ![image](https://www.scirra.com/images/articles/openbehaviors.png)
 ![image](https://www.scirra.com/images/articles/add8dir.png)
+- 将8方向移动,Scroll To行为添加到玩家。
+- 将Bullet移动和Destroy外部布局添加到Bullet对象（没有惊喜）
+- 将子弹移动添加到Monster对象（因为它也向前移动）
+- 将Fade行为添加到Explosion对象（因此它逐渐消失）出现后）。
+## 创建活动
