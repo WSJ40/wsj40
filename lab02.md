@@ -15,3 +15,12 @@
 怪物：![image](https://www.scirra.com/images/articles/monster.png)
 子弹：![image](https://www.scirra.com/images/articles/Bullet.png)
 爆炸：![image](https://www.scirra.com/images/articles/explode.png)
+1. 双击以插入新对象
+2. 双击 “Sprite”对象。
+3.当鼠标变为十字准线时，单击布局中的某个位置。工具提示应为“Main”。（请记住这是活动布局。）
+4。弹出纹理编辑器。单击打开图标，然后加载四个纹理中的一个。
+5. 关闭纹理编辑器，保存更改。您现在应该在布局中看到对象！
+## 添加行为
+单击播放器以选择对象。在属性栏中，单击“ 添加/编辑”。播放器的“行为”对话框将打开。
+![image](https://www.scirra.com/images/articles/openbehaviors.png)
+![image](https://www.scirra.com/images/articles/add8dir.png)
