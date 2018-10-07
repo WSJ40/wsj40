@@ -35,3 +35,11 @@
 ![image](https://www.scirra.com/images/articles/eventsheettab.png)
 然后依次选择system、every tick、player、set angle toward position
 ![image](https://www.scirra.com/images/articles/alwayslookatmouse.png)
+同理进行以下设置：
+![image](https://www.scirra.com/images/articles/spawnbullet2.png)
+![image](https://www.scirra.com/images/articles/ghostshooterevent4.png)
+![image](https://www.scirra.com/images/articles/monsternohealth.png)
+![image](https://www.scirra.com/images/articles/scoreeevent.png)
+条件：子弹 > 与另一个物体碰撞 > 选择怪物 动作：怪物 > 摧毁 动作：子弹 > 生成另一个对象 > 爆炸，第1层 动作：子弹 > 摧毁
+条件：系统 > 每X秒 > 3 动作：系统 > 创建对象 > 怪物，第1层，1400（对于X），随机（1024）
+条件：怪物 > 与另一个物体碰撞 > 玩家 动作：玩家 > 摧毁
