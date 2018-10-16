@@ -10,4 +10,4 @@ RGB是从颜色发光的原理来设计定的，通俗点说它的颜色混合�
 对于第一种表示方法意味着用一个24位的数来储存表示一种颜色，即：红、绿、蓝三色各占8位 
 对于第二种表示方法意味着用一个32位的数来储存表示一种颜色，这时三种原色依旧每种颜色用8位表示，剩下的8位用作Alpha通道或者不用。
 ## 颜色码
-！[image](https://img-blog.csdn.net/20171025215740533?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvR29sZEJlYXI5OA==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+![image](https://img-blog.csdn.net/20171025215740533?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvR29sZEJlYXI5OA==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)   
