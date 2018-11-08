@@ -42,7 +42,8 @@
 
 (5)W的值读入ALU    
 
-(6)ALU执行加法，结果传入ACC
+(6)ALU执行加法，结果传入ACC   
+
 5. “LOD #3” 与 “ADD W” 指令的执行在Fetch-Execute周期级别，有什么不同    
 
 LOD #3只需访问RAM一次,而ADD W需要两次访问RAM     
