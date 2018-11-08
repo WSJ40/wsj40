@@ -9,6 +9,10 @@
 ## 任务一：简单程序
 ![image](http://m.qpic.cn/psb?/V102zVW74XkRgr/BZ5su*FmFfhPeMGYsZcBlr9iY5wm5eJ1bNQ5YzVVm70!/b/dFIBAAAAAAAA&bo=eQKXAQAAAAADB88!&rf=viewer_4)
 ### 一
+实验步骤：（1）打开网页 The PIPPIN User’s Guide ，然后输入 Program 1：Add 2 number    
+
+（2）点step after step。    
+
 1.PC，IR 寄存器的作用   
 
 PC：PC是专门用于在CPU取指令期间寻址程序存储器。PC总是保存着下一条要执行的指令的16位地址。   
@@ -51,6 +55,8 @@ IR:(1)用来存放后续指令地址
 
 LOD #3只需访问RAM一次,而ADD W需要两次访问RAM     
 ### 二
+实验步骤：（3）点击“Binary”    
+
 1.写出指令 “LOD #7” 的二进制形式，按指令结构，解释每部分的含义    
 
 00010100 00000111     一个为步骤,另一个为操作数  
@@ -69,6 +75,8 @@ int w = 3; int x = 7; int z = x + w;
 ## 任务二：简单循环
 ![image](http://m.qpic.cn/psb?/V102zVW74XkRgr/YwaNp7SmoMDGBi6enzE2fU*pPHQpy5j3N2jiF5853QI!/b/dGYBAAAAAAAA&bo=sAKqAQAAAAADBzs!&rf=viewer_4)
 ### 一
+实验步骤：（1） 输入程序Program 2，运行    
+
 1.用一句话总结程序的功能
 
 使 x 从 10 不断减一,直到 x < 0    
@@ -83,6 +91,8 @@ while (x >= 0){
 
 }    
 ### 二
+实验步骤：（2） 修改该程序，用机器语言实现 10+9+8+..1 ，输出结果存放于内存 Y     
+
 1.写出 c 语言的计算过程
 
 int x = 10;    
