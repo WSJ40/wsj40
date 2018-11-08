@@ -67,6 +67,7 @@ LOD #3只需访问RAM一次,而ADD W需要两次访问RAM
 
 int w = 3; int x = 7; int z = x + w;
 ## 任务二：简单循环
+![image](http://m.qpic.cn/psb?/V102zVW74XkRgr/YwaNp7SmoMDGBi6enzE2fU*pPHQpy5j3N2jiF5853QI!/b/dGYBAAAAAAAA&bo=sAKqAQAAAAADBzs!&rf=viewer_4)
 ### 一
 1.用一句话总结程序的功能
 
