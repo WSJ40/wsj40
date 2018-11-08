@@ -57,3 +57,4 @@ LOD #3只需访问RAM一次,而ADD W需要两次访问RAM
 9. 写出该程序对应的 C语言表达   
 
 int w = 3; int x = 7; int z = x + w;
+   
