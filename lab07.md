@@ -8,6 +8,7 @@
 4. 用汇编编写简单程序
 ## 任务一：简单程序
 ![image](http://m.qpic.cn/psb?/V102zVW74XkRgr/BZ5su*FmFfhPeMGYsZcBlr9iY5wm5eJ1bNQ5YzVVm70!/b/dFIBAAAAAAAA&bo=eQKXAQAAAAADB88!&rf=viewer_4)
+### 一
 1. PC，IR 寄存器的作用   
 
    PC：PC是专门用于在CPU取指令期间寻址程序存储器。PC总是保存着下一条要执行的指令的16位地址。   
@@ -47,7 +48,7 @@
 5. “LOD #3” 与 “ADD W” 指令的执行在Fetch-Execute周期级别，有什么不同    
 
 LOD #3只需访问RAM一次,而ADD W需要两次访问RAM     
-
+### 二
 1. 写出指令 “LOD #7” 的二进制形式，按指令结构，解释每部分的含义    
 
 00010100 00000111     一个为步骤,另一个为操作数  
@@ -63,4 +64,4 @@ LOD #3只需访问RAM一次,而ADD W需要两次访问RAM
 4.  写出该程序对应的 C语言表达   
 
 int w = 3; int x = 7; int z = x + w;
-## 任务二：
+## 任务二：简单循环
