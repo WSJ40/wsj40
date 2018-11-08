@@ -75,20 +75,29 @@ int w = 3; int x = 7; int z = x + w;
 
 2.写出对应的 c 语言程序
 
-int x = 10; 
-while (x >= 0){ 
-–x; 
+int x = 10;     
+
+while (x >= 0){    
+
+–x;      
+
 }    
 ### 二
 1.写出 c 语言的计算过程
 
-int x = 10; 
-int w = 0; 
-while(x > 0){ 
-w += x; 
-- -x; 
-} 
-int y = w;    
+int x = 10;    
+
+int w = 0;    
+
+while(x > 0){      
+
+w += x;     
+
+--x;     
+
+}      
+
+int y = w;        
 
 2.写出机器语言的计算过程
 
