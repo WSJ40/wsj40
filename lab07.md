@@ -9,7 +9,7 @@
 ## 任务一：简单程序
 ![image](http://m.qpic.cn/psb?/V102zVW74XkRgr/BZ5su*FmFfhPeMGYsZcBlr9iY5wm5eJ1bNQ5YzVVm70!/b/dFIBAAAAAAAA&bo=eQKXAQAAAAADB88!&rf=viewer_4)
 ### 一
-1. PC，IR 寄存器的作用   
+1.PC，IR 寄存器的作用   
 
    PC：PC是专门用于在CPU取指令期间寻址程序存储器。PC总是保存着下一条要执行的指令的16位地址。   
 
@@ -20,9 +20,8 @@
       (3)保存将被存储的下一个数据字节的地址     
 
       (4)保存当前CPU所访问的主存单元的地址
-2. ACC 寄存器的全称与作用
+2.ACC 寄存器的全称与作用
 全称:Accumulator(累加器)    
-
 作用:主要用于完成数据的算术和逻辑运算，可以存放数据或中间结果。
 3. 用“LOD #3”指令的执行过程，解释Fetch-Execute周期     
 
