@@ -14,7 +14,7 @@
 5、在adress 08 中输入ADD W，将3与7相加得到10； 
 6、在adress 10 中输入STO Y；将结果存入Y中。 
 ## 任务一：简单程序
-![image](http://m.qpic.cn/psb?/V102zVW74XkRgr/BZ5su*FmFfhPeMGYsZcBlr9iY5wm5eJ1bNQ5YzVVm70!/b/dFIBAAAAAAAA&bo=eQKXAQAAAAADB88!&rf=viewer_4)
+![image](http://m.qpic.cn/psb?/V102zVW74XkRgr/yLt1v6rKq.LvaOdWDDXxI*e475chPR*YajKMZgbsBQ8!/b/dEYBAAAAAAAA&bo=vAKnAQAAAAADBzo!&rf=viewer_4)
 ### 一  
 1.PC，IR 寄存器的作用   
 
@@ -74,7 +74,9 @@ LOD #3只需访问RAM一次,而ADD W需要两次访问RAM
 
 int w = 3; int x = 7; int z = x + w;
 ## 任务二：简单循环
-![image](http://m.qpic.cn/psb?/V102zVW74XkRgr/YwaNp7SmoMDGBi6enzE2fU*pPHQpy5j3N2jiF5853QI!/b/dGYBAAAAAAAA&bo=sAKqAQAAAAADBzs!&rf=viewer_4)
+![image](http://m.qpic.cn/psb?/V102zVW74XkRgr/tkMxTCoNNzU4PEG5jTncdUnzlPqfv8reCMkPnjb8eFA!/b/dFIBAAAAAAAA&bo=QAP.AQAAAAADF44!&rf=viewer_4)
+![image](http://m.qpic.cn/psb?/V102zVW74XkRgr/E.1R8LI3wKMXGAM.5bm8orRZtzZOTK7DILIxd4VMKcs!/b/dFIBAAAAAAAA&bo=3AMiAgAAAAADF80!&rf=viewer_4)
+![image](http://m.qpic.cn/psb?/V102zVW74XkRgr/iht*1BcjilnrD4FMvVGmTxp3ssU7PpaGW10KTO3mYFc!/b/dDIBAAAAAAAA&bo=jwLgAQAAAAADF14!&rf=viewer_4)
 ### 一
 1.用一句话总结程序的功能
 
