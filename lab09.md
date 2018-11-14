@@ -24,7 +24,7 @@ while(time_counter为4的倍数）
     else（电机正在右转）      
 
     motor_run（left）      
-
+     
     end if      
 
     if（time_counter()>=一定时间）      
