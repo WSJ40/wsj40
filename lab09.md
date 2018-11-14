@@ -40,7 +40,7 @@ if(水量不变即水无法排出）
 water_out_switch(close)      
 
 发出警报声     
-
+     
 halt     
 
 else       
